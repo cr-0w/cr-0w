@@ -1,4 +1,4 @@
 ⭐ hey, it's cr0w. 
 
 ![cr-0w's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr-0w&show_icons=true&hide=prs,issues,contribs,&theme=nord&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=cr-0w&theme=onedark&rows=3&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cr-0w&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
