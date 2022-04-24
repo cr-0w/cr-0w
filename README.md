@@ -1,4 +1,4 @@
-<img src="/img/starr.gif" width="60"/> hey, it's cr0w.
+⭐ hey, it's cr0w.
 ---
 <img align="left" src="/img/ren.gif" alt=":D" width="300"/> 
 
