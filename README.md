@@ -9,6 +9,7 @@ cr0w@blackbird
 ( . .)   🔥 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜: Invoke-Cathedral 
 c(")(")  ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒𝚗𝚐: Attack on Titan, SPY x FAMILY
          💖 𝙸𝚗 𝙿𝚛𝚘𝚐𝚛𝚎𝚜𝚜: CRTP, OSCP
+         ❤️ 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜: eJPT, eCPPT, C|EH Practical 
 ```
 
 <p align="left">
