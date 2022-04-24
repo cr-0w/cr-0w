@@ -5,9 +5,9 @@
 ```
 cr0w@blackbird
 --------------
-(\ /)      
-( . .)  
-c(")(") 
+(\ /)    ⚡ Interests: Red Teaming, Penetration Testing, Binary Exploitation, Digital Forensics, Reverse Engineering
+( . .)   🔥 Current Projects: Invoke-Cathedral, SpiderMTP, ...
+c(")(")  ✨ Currently Watching: Attack on Titan, SPY x FAMILY
 ```
 
 <p align="left">
@@ -17,6 +17,4 @@ c(")(")
   <img alt="#e4d7cf" src="https://via.placeholder.com/15/e4d7cf/000000?text=+" width="25" height="20"/>
 </p>
 
-```
-TEST
-```
+
