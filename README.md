@@ -5,10 +5,10 @@
 ```
 cr0w@blackbird
 --------------
-(\ /)    ⚡ Interests: 𝚁𝚎𝚍 𝚃𝚎𝚊𝚖𝚒𝚗𝚐, 𝙱𝚒𝚗𝚊𝚛𝚢 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
-( . .)   🔥 Current Projects: 𝙸𝚗𝚟𝚘𝚔𝚎-𝙲𝚊𝚝𝚑𝚎𝚍𝚛𝚊𝚕, 𝚂𝚙𝚒𝚍𝚎𝚛𝙼𝚃𝙿, ...
-c(")(")  ✨ Currently Watching: 𝙰𝚝𝚝𝚊𝚌𝚔 𝚘𝚗 𝚃𝚒𝚝𝚊𝚗, 𝚂𝙿𝚈 𝚡 𝙵𝙰𝙼𝙸𝙻𝚈
-         💖 In Progress: 𝙲𝚁𝚃𝙿, 𝙾𝚂𝙲𝙿
+(\ /)    ⚡ 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: Red Teaming, BINEXP, RE
+( . .)   🔥 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜: Invoke-Cathedral 
+c(")(")  ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒𝚗𝚐: Attack on Titan, SPY x FAMILY
+         💖 𝙸𝚗 𝙿𝚛𝚘𝚐𝚛𝚎𝚜𝚜: CRTP, OSCP
 ```
 
 <p align="left">
