@@ -1,4 +1,4 @@
-![alt text](/img/star.gif) hey, it's cr0w. 
+<img src="/img/star.gif" width="100" /> hey, it's cr0w. 
 ---
 <img align="left" src="/img/ren.gif" alt=":D" width="300" /> 
 
