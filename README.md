@@ -7,5 +7,5 @@
 ```
 
 <center>
-    <img src="/img/rengoku_x2x.jpg_400812098.jpg">
+    <img align="right" src="/img/rengoku_x2x.jpg_400812098.jpg">
 </center>
