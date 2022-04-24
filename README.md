@@ -1,7 +1,4 @@
 <img src="/img/starr.gif" width="60"/> 
-<img src="/img/starr.gif" width="60"/> 
-<img src="/img/starr.gif" width="60"/> 
-
 
 ---
 
