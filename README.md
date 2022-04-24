@@ -12,7 +12,6 @@ cr0w@blackbird
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#422b2e" src="https://via.placeholder.com/15/422b2e/000000?text=+" width="25" height="20"/>
   <img alt="#a03236" src="https://via.placeholder.com/15/a03236/000000?text=+" width="25" height="20"/>
   <img alt="#dec563" src="https://via.placeholder.com/15/dec563/000000?text=+" width="25" height="20"/>
   <img alt="#dcc29e" src="https://via.placeholder.com/15/dcc29e/000000?text=+" width="25" height="20"/>
