@@ -1,6 +1,6 @@
-<img src="/img/starr.gif" width="60" /> hey, it's cr0w. 
+<img src="/img/starr.gif" width="60"/> 
 ---
-<img align="left" src="/img/ren.gif" alt=":D" width="300" /> 
+<img align="left" src="/img/ren.gif" alt=":D" width="300"/> 
 
 ```
 𝚌𝚛0𝚠@𝚋𝚕𝚊𝚌𝚔𝚋𝚒𝚛𝚍
