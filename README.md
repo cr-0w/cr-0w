@@ -7,5 +7,5 @@
 ```
 
 <center>
-    <img align="right" src="/img/ren.gif"  width="300" height="300">
+    <img align="left" src="/img/ren.gif"  width="300" height="300">
 </center>
