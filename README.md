@@ -1,4 +1,4 @@
-<img src="/img/starr.gif" width="80" /> hey, it's cr0w. 
+<img src="/img/starr.gif" width="50" /> hey, it's cr0w. 
 ---
 <img align="left" src="/img/ren.gif" alt=":D" width="300" /> 
 
