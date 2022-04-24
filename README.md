@@ -1,6 +1,6 @@
 ⭐ hey, it's cr0w. 
 ---
-<img align="left" src="/img/ren.gif" alt=":D" width="320" /> 
+<img align="left" src="/img/ren.gif" alt=":D" width="300" /> 
 
 ```
 cr0w@blackbird
