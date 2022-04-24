@@ -1,5 +1,7 @@
 <img src="/img/starr.gif" width="60"/> 
+
 ---
+
 <img align="left" src="/img/ren.gif" alt=":D" width="300"/> 
 
 ```
