@@ -10,7 +10,7 @@ cr0w@blackbird
    c(")(") 
 ```
 
-<p align="left">
+<p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#a03236" src="https://via.placeholder.com/15/a03236/000000?text=+" width="25" height="20"/>
   <img alt="#dec563" src="https://via.placeholder.com/15/dec563/000000?text=+" width="25" height="20"/>
