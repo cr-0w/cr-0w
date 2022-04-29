@@ -18,7 +18,6 @@ c(")(")  ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒𝚗�
   <img alt="#dec563" src="https://via.placeholder.com/15/dec563/000000?text=+" width="25" height="20"/>
   <img alt="#dcc29e" src="https://via.placeholder.com/15/dcc29e/000000?text=+" width="25" height="20"/>
   <img alt="#e4d7cf" src="https://via.placeholder.com/15/e4d7cf/000000?text=+" width="25" height="20"/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/CrowXII.png" alt="TryHackMe">
 </p>
-
-
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/CrowXII.png" alt="TryHackMe">
