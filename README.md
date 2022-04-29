@@ -21,4 +21,4 @@ c(")(")  ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒𝚗�
 </p>
 <br>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe">
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe">
