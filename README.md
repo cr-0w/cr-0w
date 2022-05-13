@@ -18,7 +18,7 @@ c(")(")        ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒
 <br>
 <br>
 <br>
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="304">
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="304"/>
 ```
 Highest Rank Achieved (THM): 156TH
 Highest Rank Achieved (THM / COUNTRY): 4TH
