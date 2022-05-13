@@ -13,13 +13,6 @@ c(")(")        ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒
                🩸 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: PowerShell, Bash, Python
                🔴 Currently Playing: Lost Ark
 ```
-```
-Accomplishments
----------------
-🏆 : Reached 156th Global (TryHackMe)
-🍁 : Reached 4th in Canada (TryHackMe)  
-```
-
 <br>
 <br>
 <br>
