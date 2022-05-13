@@ -13,13 +13,5 @@ c(")(")  ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒𝚗�
          🩸 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: PowerShell, Bash, Python
 ```
 
-<p align="left">
-  <img src="https://via.placeholder.com/15/a03236/000000?text=+" width="25" height="20"/>
-  <img src="https://via.placeholder.com/15/dec563/000000?text=+" width="25" height="20"/>
-  <img src="https://via.placeholder.com/15/dcc29e/000000?text=+" width="25" height="20"/>
-  <img src="https://via.placeholder.com/15/e4d7cf/000000?text=+" width="25" height="20"/>
-</p>
-<br>
-<br>
 <br>
 <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="304">
