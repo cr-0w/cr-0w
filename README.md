@@ -14,7 +14,10 @@ c(")(")        ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒
                🔴 Currently Playing: Lost Ark
 ```
 ```
-🏆 Accomplishments: Reached 156th Global (TryHackMe), 4th in Canada 🍁                  
+Accomplishments
+---------------
+🏆 : Reached 156th Global (TryHackMe)
+🍁 : Reached 4th in Canada (TryHackMe)  
 ```
 
 <br>
