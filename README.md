@@ -13,13 +13,13 @@ c(")(")        ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒
                🩸 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: PowerShell, Bash, Python
                🔴 Currently Playing: Lost Ark
 ```
+```
+🏆 Accomplishments: Reached 156th Global (TryHackMe), 4th in Canada 🍁                  
+```
 
 <br>
 <br>
 <br>
 <br>
 <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="304"/>
-```
-Highest Rank Achieved (THM): 156TH
-Highest Rank Achieved (THM / COUNTRY): 4TH
-```
+
