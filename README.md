@@ -1,6 +1,6 @@
 ⭐ hey, it's cr0w.
 ---
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="350"/>
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="340"/>
 
 ```
 𝚌𝚛0𝚠@𝚋𝚕𝚊𝚌𝚔𝚋𝚒𝚛𝚍
