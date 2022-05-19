@@ -1,6 +1,6 @@
 ⭐ hey, it's cr0w.
 ---
-<img align="left" src="/img/ren.gif" alt=":D" width="300"/> 
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="350"/>
 
 ```
 𝚌𝚛0𝚠@𝚋𝚕𝚊𝚌𝚔𝚋𝚒𝚛𝚍
@@ -13,9 +13,5 @@ c(")(")        ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒
                🩸 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: PowerShell, Bash, Python
                🔴 Currently Playing: Lost Ark
 ```
-<br>
-<br>
-<br>
-<br>
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="304"/>
+<img align="left" src="/img/ren.gif" alt=":D" width="300"/> 
 
