@@ -1,6 +1,6 @@
 ⭐ hey, it's cr0w.
 ---
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="340"/>
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/PrinceOfCrows.png" alt="TryHackMe" width="304"/>
 
 ```
 𝚌𝚛0𝚠@𝚋𝚕𝚊𝚌𝚔𝚋𝚒𝚛𝚍
@@ -11,7 +11,5 @@ c(")(")        ✨ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚊𝚝𝚌𝚑𝚒
                🍟 𝙸𝚗 𝙿𝚛𝚘𝚐𝚛𝚎𝚜𝚜: CRTP, OSCP
                ❤️ 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜: eJPT, eCPPT, C|EH Practical 
                🩸 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: PowerShell, Bash, Python
-               🔴 Currently Playing: Lost Ark
 ```
-<img align="left" src="/img/ren.gif" alt=":D" width="300"/> 
 
