@@ -27,19 +27,17 @@
 ## `📊` STATISTICS
 
 <div align="center">
-
+          
+![github-user-contribution()](https://github.com/cr-0w/cr-0w/assets/59679082/660231a1-1b6c-4574-97eb-1e336a89c087)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cr-0w&theme=vue)
 ![](https://github-readme-stats.vercel.app/api?username=cr-0w&show_icons=true&hide_title=true&icon_color=41B883&ring_color=41B883&text_bold=false&include_all_commits=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cr-0w&layout=compact&title_color=41B883)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cr-0w&layout=donut&title_color=41B883) <br>
+![:name](https://moe-counter.glitch.me/get/@:cr-0w?theme=asoul)
 
 </div>
 
 <div align="center">
 
----
-
-![:name](https://count.getloli.com/get/@:name?theme=asoul)<br>
-![github-user-contribution()](https://github.com/cr-0w/cr-0w/assets/59679082/660231a1-1b6c-4574-97eb-1e336a89c087)
 
 ---
 
