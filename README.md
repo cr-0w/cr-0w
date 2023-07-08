@@ -5,6 +5,8 @@
           
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=2000&pause=2000&color=41B883&vCenter=true&width=210&height=35&lines=hey%2C+it's+crow)](https://git.io/typing-svg)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h6amt94m1edidtzwaahk8muvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=h6amt94m1edidtzwaahk8muvu&redirect=true)
+
 💬 **Me**: cybersecurity "content creator" and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
 
 🌱 **Projects**:
@@ -23,16 +25,21 @@
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)
 
 ## `📊` STATISTICS
+
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cr-0w&theme=vue)
-![](https://github-readme-stats.vercel.app/api?username=cr-0w&show_icons=true&hide_title=true&icon_color=41B883&ring_color=41B883&text_bold=false&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=cr-0w&show_icons=true&hide_title=true&icon_color=41B883&ring_color=41B883&text_bold=false&include_all_commits=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cr-0w&layout=compact&title_color=41B883)
+
+</div>
 
 <div align="center">
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h6amt94m1edidtzwaahk8muvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=h6amt94m1edidtzwaahk8muvu&redirect=true) <br>
-![:name](https://count.getloli.com/get/@:name?theme=asoul)
+![:name](https://count.getloli.com/get/@:name?theme=asoul)<br>
+![github-user-contribution()](https://github.com/cr-0w/cr-0w/assets/59679082/660231a1-1b6c-4574-97eb-1e336a89c087)
 
 ---
 
