@@ -7,7 +7,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h6amt94m1edidtzwaahk8muvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=h6amt94m1edidtzwaahk8muvu&redirect=true)
 
-💬 **Me**: cybersecurity "content creator" and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
+💬 **Me**: cybersecurity "[content creator](https://www.youtube.com/@crr0ww)" and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
 
 🌱 **Projects**:
 
@@ -20,6 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `x86 asm`,`c` ]
 
 ⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `OSCP*`, `PNPT*`
+
+📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development, on my blog which you can find [here](https://www.crow.rip). Here's the most recent blog I posted: [Complete NTAPI Implementation](https://www.crow.rip/crows-nest/malware-development/process-injection/ntapi-injection/complete-ntapi-implementation).
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)
