@@ -1,3 +1,5 @@
+#ffs allow rw perms in settings > actions DAMMIT
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
@@ -12,9 +14,8 @@ on:
   
   # Also run on every push on the master branch
   push:
-    with:
-      branches:
-      - main
+    branches:
+    - main
 
 # The sequence of runs in this workflow:
 jobs:
