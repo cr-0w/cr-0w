@@ -25,6 +25,8 @@
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)
+![hackthebox](https://www.hackthebox.com/badge/image/646319)
+
 
 ## `📊` STATISTICS
 
