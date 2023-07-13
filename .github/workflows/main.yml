@@ -12,8 +12,9 @@ on:
   
   # Also run on every push on the master branch
   push:
-    branches:
-    - main
+    with:
+      branches:
+      - main
 
 # The sequence of runs in this workflow:
 jobs:
