@@ -21,8 +21,7 @@
 
 ⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `OSCP*`, `PNPT*`
 
-📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development on my blog which you can find [here](https://www.crow.rip). Here's the most recent blog: [Direct System Calls](https://www.crow.rip/crows-nest/mal/dev/inject/syscalls/direct-syscalls).
+📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development on my blog which you can find [here](https://www.crow.rip). Here's the most recent post: [Indirect System Calls](https://www.crow.rip/crows-nest/mal/dev/inject/syscalls/indirect-syscalls).
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)
-![hackthebox](https://www.hackthebox.com/badge/image/646319)
