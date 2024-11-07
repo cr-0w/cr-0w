@@ -4,17 +4,21 @@
 
 🌱 **Projects**:
 
-- `💉` **`kuronotori`**<br>
-\\___[ injector housing multiple process injection techniques<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
+- `💉` **`leviathan`**<br>
+\\___[ malware swiss army knife featuring a plethora of injection techniques, evasion methods, etc.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
+
+- `🐔` **`abraxas`**<br>
+\\___[ kernel-mode (r|b)ootkit for windows.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
 
 - `🐧` **`blackbirdOS`**<br>
 \\___[ custom operating system made from scratch<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
 
-⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE*`, `OSCP*`, `PNPT*`
+⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE`, `OSCP*`, `PNPT*`
 
 📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development on my blog which you can find [here](https://www.crow.rip). Here's the most recent post: [Indirect System Calls](https://www.crow.rip/crows-nest/mal/dev/inject/syscalls/indirect-syscalls).
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,arch,windows,github,docker)](https://skillicons.dev)
