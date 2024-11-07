@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
 
 - `🐧` **`blackbirdOS`**<br>
-\\___[ custom operating system made from scratch<br>
+\\___[ custom operating system made from scratch.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
 
 ⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE`, `OSCP*`, `PNPT*`
