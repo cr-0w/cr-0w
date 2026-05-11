@@ -12,6 +12,5 @@
 
 > [!IMPORTANT]
 > I'm rebuilding my website and migrating content from GitBook. Some pages may be moved or temporarily unavailable.
-
-### `👨‍💻` DEVELOPMENT
+---
 [![](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,docker,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows,matlab)](https://skillicons.dev)
