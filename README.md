@@ -13,7 +13,6 @@
        L#, E#t  ;#W:    G#t    E#K:    L#W;       
         jt DWi   ,KK:    t     EG      LE.        
                                ;       ;@
-
 /*!
  * @brief
  *  About Me
@@ -37,9 +36,7 @@
 
 ## 📝 Blog
 
-I'm documenting my studies in mathematics and physics, alongside reverse engineering, malware development, binary exploitation, and operating system internals.
-
-- Read it here: [crow.rip](https://www.crow.rip).
+I'm [documenting](https://www.crow.rip) my studies in mathematics and physics, alongside reverse engineering, malware development, binary exploitation, and operating system internals.
 
 > [!WARNING]
 > I'm rebuilding my website and migrating content from [GitBook](https://archive.crow.rip). (Some|most) pages may be moved or temporarily unavailable.
