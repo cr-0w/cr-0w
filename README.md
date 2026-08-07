@@ -38,9 +38,3 @@ I'm documenting my studies in math & physics, reverse engineering, malware devel
 
 > [!Note]
 > I'm rebuilding my website and migrating content from [GitBook](https://archive.crow.rip). (Some|most) pages may be moved or temporarily unavailable.
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,docker,py,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows,matlab&perline=15" />
-</p></p>
