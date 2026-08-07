@@ -21,7 +21,7 @@
  *  penetration tester @ stingrai 
  *
  * @skoo
- *  mathematics & physics specialist @ university of toronto
+ *  mathematics & physics specialist @ the university of toronto
  *
  * @goal
  *  phd in theoretical physics or pure mathematics 
