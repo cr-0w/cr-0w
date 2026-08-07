@@ -15,22 +15,22 @@
                                ;       ;@
 /*!
  * @brief
- *  About Me
+ *  about me
  *
  * @role
- *  Penetration Tester @ Stingrai
+ *  penetration tester @ stingrai 
  *
  * @skoo
- *  Mathematics & Physics Specialist @ University of Toronto
+ *  mathematics & physics specialist @ university of toronto
  *
  * @goal
- *  PhD in Theoretical Physics or Pure Mathematics
+ *  phd in theoretical physics or pure mathematics 
  *
  * @like
- *  Reverse Engineering, Operating Systems Internals, Binary Exploitation, and Malware (Development|Analysis)
+ *  re, ad, iot, binexp, os internals, mal (dev|analysis) 
  *
  * @cert
- *  C|EH Practical, eJPT, eCPPT, CRTP, CRTE, OSCP*, PNPT*
+ *  c|eh practical, ejpt, ecppt, crtp, crte, oscp*, pnpt*, oswe* 
  */
 ```
 
