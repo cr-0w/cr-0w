@@ -34,7 +34,7 @@
  */
 ```
 
-I'm [documenting](https://www.crow.rip) my studies in mathematics and physics, alongside reverse engineering, malware development, binary exploitation, and operating system internals.
+I'm documenting my studies in math & physics, reverse engineering, malware development, binary exploitation, and OS internals. [Here](https://www.crow.rip).
 
 > [!Note]
 > I'm rebuilding my website and migrating content from [GitBook](https://archive.crow.rip). (Some|most) pages may be moved or temporarily unavailable.
