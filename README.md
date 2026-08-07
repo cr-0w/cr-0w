@@ -34,8 +34,6 @@
  */
 ```
 
-## 📝 Blog
-
 I'm [documenting](https://www.crow.rip) my studies in mathematics and physics, alongside reverse engineering, malware development, binary exploitation, and operating system internals.
 
 > [!Note]
