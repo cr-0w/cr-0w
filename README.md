@@ -20,7 +20,7 @@
  * @role
  *  penetration tester @ stingrai 
  *
- * @skoo
+ * @debt
  *  mathematics & physics specialist @ the university of toronto
  *
  * @goal
