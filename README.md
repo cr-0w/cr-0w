@@ -18,7 +18,7 @@
  *  about me
  *
  * @role
- *  penetration tester @ stingrai 
+ *  penetration tester / r&d @ stingrai 
  *
  * @debt
  *  mathematics & physics specialist @ the university of toronto
